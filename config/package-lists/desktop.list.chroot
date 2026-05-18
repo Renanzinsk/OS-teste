@@ -1,6 +1,8 @@
 xfce4
 lightdm
 network-manager
+network-manager-gnome
 firefox-esr
 vlc
 thunar
+mousepad
