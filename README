@@ -1,4 +1,4 @@
-# Documentação do Ambiente de Desenvolvimento da Distro Linux
+# Estudo sobre o Ambiente de desenvolvimento Linux
 
 ## Objetivo
 Criar um ambiente de desenvolvimento para construir uma distro Linux baseada em Debian usando `live-build`.
